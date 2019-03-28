@@ -60,4 +60,3 @@ spec:
       - backend:
           serviceName: example-cloud-armor
           servicePort: 80
-
